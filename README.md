@@ -1,15 +1,19 @@
 # readmeGenerator
-## User Story
-
-```md
-AS A developer
+![apace](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
+## Description
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
-```
-
-## Acceptance Criteria
-
-```md
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+## Installation
+NO install required
+## Usage
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -25,4 +29,21 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-```
+
+
+
+
+
+## License
+
+This application is covered by the Apache v2.0 License, the terms of which can be found [here](https://www.apache.org/licenses/LICENSE-2.0.txt).
+    
+## Contributing
+DO NOT CONTRIBUTE
+## Tests
+TEST NOT NEEDED
+## Questions
+[GitHub Profile](https://github.com/AnthonyDiBlasio/)  
+I can be reached at anthony.diblasio@gmail.com.
+
+
